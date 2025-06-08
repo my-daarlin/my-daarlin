@@ -27,37 +27,41 @@
 
 ## 🙋 About Me
 
-📍 Based in Redmond, WA 🇺🇸 (originally 🇨🇿)
-🎓 Class of ’25 @ Redmond High → UW Bothell (CompEng)
-🎨 Into creative coding, pixel art, automation
-🛠️ Love Minecraft redstone + Factorio automation
-🌌 Always building something weird and fun
+- 📍 Based in Redmond, WA 🇺🇸 (originally 🇨🇿)
+- 🎓 Class of ’25 @ Redmond High → UW Bothell (CompEng)
+- 🎨 Into creative coding, pixel art, automation
+- 🛠️ Love Minecraft redstone + Factorio automation
+- 🌌 Always building something weird and fun
 
 
 ## 🔧 Tech & Tools
 
-**Languages:** Java, Bash, GDScript, GML, Unity C#
-**Engines:** [Godot 4](https://github.com/godotengine/godot), [GameMaker Studio 2](https://gamemaker.io/en), [Unity](https://unity.com/)
-**Editors:** [VS Code](https://github.com/microsoft/vscode), [Rider](https://www.jetbrains.com/rider/)
-**Tools:** [Aseprite](https://github.com/aseprite/aseprite), [Blender](https://github.com/blender/blender), [Git](https://github.com/git/git), [Ghostty](https://github.com/ghostty-org/ghostty)
-**OS:** Mainly [MacOS](https://www.apple.com/macos/)
+- **Languages:** Java, Bash, GDScript, GML, Unity C#
+- **Engines:** [Godot 4](https://github.com/godotengine/godot), [GameMaker Studio 2](https://gamemaker.io/en), [Unity](https://unity.com/)
+- **Editors:** [VS Code](https://github.com/microsoft/vscode), [Rider](https://www.jetbrains.com/rider/)
+- **Tools:** [Aseprite](https://github.com/aseprite/aseprite), [Blender](https://github.com/blender/blender), [Git](https://github.com/git/git), [Ghostty](https://github.com/ghostty-org/ghostty)
+- **OS:** Mainly [MacOS](https://www.apple.com/macos/)
 
 
 ## 🎮 Featured Projects
 
-### 🌐 [Flaggi](https://github.com/matysta/flaggi) [w/Samuel T.](https://github.com/Snapshot20)
-**Multiplayer strategy game** made in Java for a coding tourney. Think tactical duels, custom server, smooth UX.
-`Java · Gradle · TCP/UDP · CLI + GUI · Docker`
+> ### ⛳️ [Flaggi](https://github.com/matysta/flaggi) [w/Samuel T.](https://github.com/Snapshot20)
+> **Multiplayer strategy game** made in Java for a coding tourney. Think tactical duels, custom server, smooth UX.
+> 
+> `Java · Gradle · TCP/UDP · CLI + GUI · Docker`
 
-### 📊 [Whatsapp Wrapped](https://github.com/matysta/whatsapp-wrapped)
-Generates your own “Wrapped” from WhatsApp chats. Stats, graphs, nostalgia.
-`Java · TXT Parsing · Data Vizualization`
+> ### 📊 [Whatsapp Wrapped](https://github.com/matysta/whatsapp-wrapped)
+> Generates your own “Wrapped” from WhatsApp chats. Stats, graphs, nostalgia.
+> 
+>`Java · TXT Parsing · Data Vizualization`
 
-### 🧙 [Eldoria Chronicles](https://github.com/matysta/eldoria-chronicles)
-A tiny, narrative RPG in Godot. Clean art, clean vibes, short & sweet.
-`Godot 4 · Pixel Art · Story Design`
+> ### 🧙 [Eldoria Chronicles](https://github.com/matysta/eldoria-chronicles)
+> A tiny, narrative RPG in Godot. Clean art, clean vibes, short & sweet.
+> 
+> `Godot 4 · Pixel Art · Story Design`
 
-### 🧪 [Slimecaster](https://github.com/matysta/slimecaster)
-Fast-paced GameMaker action. Tight movement, cool VFX, arcade energy.
-`GML · GameMaker · 2D`
+> ### 🧪 [Slimecaster](https://github.com/matysta/slimecaster)
+> Fast-paced GameMaker action. Tight movement, cool VFX, arcade energy.
+> 
+> `GML · GameMaker · 2D`
 
