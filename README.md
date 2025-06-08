@@ -23,13 +23,16 @@
   <a href="https://www.instagram.com/my_daarlin">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://www.youtube.com/channel/UCuwgS_xoutQ9mPVbhBSGwyA">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
+  </a>
 </p>
 
 ## 🙋 About Me
 
 - 📍 Based in Redmond, WA 🇺🇸 (originally 🇨🇿)
 - 🎓 Class of ’25 @ Redmond High → UW Bothell (CompEng)
-- 🎨 Into creative coding, pixel art, automation
+- 🎨 Into coding, art, automation
 - 🛠️ Love Minecraft redstone + Factorio automation
 - 🌌 Always building something weird and fun
 
@@ -45,8 +48,8 @@
 
 ## 🎮 Featured Projects
 
-> ### ⛳️ [Flaggi](https://github.com/matysta/flaggi) [w/Samuel T.](https://github.com/Snapshot20)
-> **Multiplayer strategy game** made in Java for a coding tourney. Think tactical duels, custom server, smooth UX.
+> ### ⛳️ [Flaggi](https://github.com/matysta/flaggi) [w/ Samuel T.](https://github.com/Snapshot20)
+> **Multiplayer 2D shooter game** made in Java from scratch. Server & Client sides.
 > 
 > `Java · Gradle · TCP/UDP · CLI + GUI · Docker`
 
@@ -56,12 +59,11 @@
 >`Java · TXT Parsing · Data Vizualization`
 
 > ### 🧙 [Eldoria Chronicles](https://github.com/matysta/eldoria-chronicles)
-> A tiny, narrative RPG in Godot. Clean art, clean vibes, short & sweet.
+> A tiny, platformer in Godot. Collect coins and avoid slimes.
 > 
 > `Godot 4 · Pixel Art · Story Design`
 
 > ### 🧪 [Slimecaster](https://github.com/matysta/slimecaster)
-> Fast-paced GameMaker action. Tight movement, cool VFX, arcade energy.
+> Fast-paced GameMaker action. Tight movement, cool VFX.
 > 
-> `GML · GameMaker · 2D`
-
+> `GML · GameMaker 2 · 2D`
