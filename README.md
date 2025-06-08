@@ -48,7 +48,7 @@
 
 ## 🎮 Featured Projects
 
-> ### ⛳️ [Flaggi](https://github.com/matysta/flaggi) [w/ Samuel T.](https://github.com/Snapshot20)
+> ### ⛳️ [Flaggi](https://github.com/matysta/flaggi) w/ [Samuel T.](https://github.com/Snapshot20)
 > **Multiplayer 2D shooter game** made in Java from scratch. Server & Client sides.
 > 
 > `Java · Gradle · TCP/UDP · CLI + GUI · Docker`
