@@ -58,6 +58,11 @@
 > 
 >`Java · TXT Parsing · Data Vizualization`
 
+> ### 💤 [Don't Wake Up](https://github.com/matysta/dont-wake-up)
+> 3D first-person survival game where you fight off energy drinks in your dreams.
+> 
+> `Unity · 3D · Sounds · Story`
+
 > ### 🧙 [Eldoria Chronicles](https://github.com/matysta/eldoria-chronicles)
 > A tiny, platformer in Godot. Collect coins and avoid slimes.
 > 
