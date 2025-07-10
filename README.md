@@ -31,7 +31,8 @@
 ## 🙋 About Me
 
 - 📍 Based in Redmond, WA 🇺🇸 (originally 🇨🇿)
-- 🎓 Class of ’25 @ Redmond High → UW Bothell (CompEng)
+- 🎓 Class of ’29 @ University of Washington Bothell (Go Huskies! 🐶)
+- 💻 Planning to study Computer Engineering
 - 🎨 Into coding, art, automation
 - 🛠️ Love Minecraft redstone + Factorio automation
 - 🌌 Always building something weird and fun
