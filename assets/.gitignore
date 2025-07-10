@@ -1,2 +1,4 @@
-# MacOS
+# macOS
 .DS_Store
+._*
+*-alias
