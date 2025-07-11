@@ -54,22 +54,28 @@
 > 
 > `Java · Gradle · TCP/UDP · CLI + GUI · Docker`
 
-> ### 📊 [Whatsapp Wrapped](https://github.com/matysta/whatsapp-wrapped)
-> Generates your own “Wrapped” from WhatsApp chats. Stats, graphs, nostalgia.
-> 
->`Java · TXT Parsing · Data Vizualization`
-
-> ### 💤 [Don't Wake Up](https://github.com/matysta/dont-wake-up)
+> ### 💤 [Don't Wake Up](https://github.com/my-daarlin/dont-wake-up)
 > 3D first-person survival game where you fight off energy drinks in your dreams.
 > 
 > `Unity · 3D · Sounds · Story`
 
-> ### 🧙 [Eldoria Chronicles](https://github.com/matysta/eldoria-chronicles)
+> ### ⭐️ [Starlight](https://github.com/my-daarlin/starlight)
+> A light and heavily optimized Minecraft Fabric modpack.
+> 
+> `GitHub Actions · Modrinth · Packwiz · Blockbench`
+
+> ### 🧪 [Slimecaster](https://github.com/my-daarlin/slimecaster)
+> Fast-paced GameMaker action. Tight movement, cool VFX.
+> 
+> `GML · GameMaker 2 · 2D`
+
+> ### 📊 [Whatsapp Wrapped](https://github.com/my-daarlin/whatsapp-wrapped)
+> Generates your own “Wrapped” from WhatsApp chats. Stats, graphs, nostalgia.
+> 
+>`Java · TXT Parsing · Data Vizualization`
+
+> ### 🧙 [Eldoria Chronicles](https://github.com/my-daarlin/eldoria-chronicles)
 > A tiny, platformer in Godot. Collect coins and avoid slimes.
 > 
 > `Godot 4 · Pixel Art · Story Design`
 
-> ### 🧪 [Slimecaster](https://github.com/matysta/slimecaster)
-> Fast-paced GameMaker action. Tight movement, cool VFX.
-> 
-> `GML · GameMaker 2 · 2D`
