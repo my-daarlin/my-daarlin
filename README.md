@@ -14,7 +14,7 @@
 [//]: # (Link shields -> https://github.com/inttter/md-badges#-social-media)
 
 <p align="center">
-  <a href="https://github.com/matysta">
+  <a href="https://github.com/my-daarlin">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/matejstastny/">
@@ -49,7 +49,7 @@
 
 ## 🎮 Featured Projects
 
-> ### ⛳️ [Flaggi](https://github.com/matysta/flaggi) w/ [Samuel T.](https://github.com/Snapshot20)
+> ### ⛳️ [Flaggi](https://github.com/my-daarlin/flaggi) w/ [Samuel T.](https://github.com/Snapshot20)
 > **Multiplayer 2D shooter game** made in Java from scratch. Server & Client sides.
 > 
 > `Java · Gradle · TCP/UDP · CLI + GUI · Docker`
