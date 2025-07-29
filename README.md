@@ -64,6 +64,11 @@
 > 
 > `GitHub Actions · Modrinth · Packwiz · Blockbench`
 
+> ### 🤍 [Nyxpack](https://github.com/my-daarlin/nyxpack)
+> A white minimalistic theme for Krunker.io. Custom CSS and overlays.
+> 
+> `Krunker · CSS · Stylus`
+
 > ### 🧪 [Slimecaster](https://github.com/my-daarlin/slimecaster)
 > Fast-paced GameMaker action. Tight movement, cool VFX.
 > 
