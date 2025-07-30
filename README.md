@@ -24,7 +24,10 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/channel/UCuwgS_xoutQ9mPVbhBSGwyA">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://modrinth.com/user/my-daarlin">
+    <img src="https://img.shields.io/badge/Modrinth-1CD96A?logo=modrinth&logoColor=fff" alt="Modrinth" />
   </a>
 </p>
 
